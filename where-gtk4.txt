@@ -1,0 +1,3 @@
+https://www.ubuntubuzz.com/2021/04/setup-gtk4-development-tools-on-ubuntu-fedora-opensuse.html
+
+install sudo apt-get install libgtk-4-dev gtk-4-examples geany

@@ -17,3 +17,6 @@ setup Wayland properly on your box.
   Display name wayland-0
   Is Wayland
 
+Note:
+
+  The getting started guide for gtk4 is at https://docs.gtk.org/gtk4/getting_started.html
