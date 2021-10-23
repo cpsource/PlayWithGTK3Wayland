@@ -20,3 +20,9 @@ setup Wayland properly on your box.
 Note:
 
   The getting started guide for gtk4 is at https://docs.gtk.org/gtk4/getting_started.html
+
+Note:
+
+  You can install gtk4 with sudo apt-get install libgtk-4-dev gtk-4-examples geany,
+  but gtk4 only uses x11 transport as far as I can tell.
+  
