@@ -1,7 +1,11 @@
+// prints out which transport layer you are using
+
 #include <gtk/gtk.h>
 #include <gdk/gdkdisplay.h>
 #include <gdk/gdkwayland.h>
 #include <gdk/gdkx.h>
+
+// from https://jan.newmarch.name/Wayland/GTK/
 
 int main(int argc, char** argv) {
   

@@ -9,6 +9,8 @@ alias em='emacs -mm'
 
 # fix directory colors when displayed
 # Who can read the default purple?
+# anyway, see this link for further details
+# https://askubuntu.com/questions/466198/how-do-i-change-the-color-for-directories-with-ls-in-the-console
 #
 # blue = 34
 # Green = 32
